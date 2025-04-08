@@ -1,6 +1,9 @@
 import java.awt.*;
 import javax.swing.*;
-
+/*
+ * This program demonstrates how to draw multiple lines on a JPanel using Java's Graphics class.
+ * It draws 10 horizontal lines, each 10 pixels apart, starting from y = 50.
+ */
 public class LineDrawing extends JPanel {
 
     @Override
